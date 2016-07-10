@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/vinceyuan/gopl-solutions/ch02/ex2.1/tempconv"
+	"github.com/quietcoolwu/gopl-solutions/ch02/ex2.1/tempconv"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/vinceyuan/gopl-solutions/ch02/ex2.2/tempconv"
+	"github.com/quietcoolwu/gopl-solutions/ch02/ex2.2/tempconv"
 )
 
 func process(arg string) {
